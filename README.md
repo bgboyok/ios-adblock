@@ -10,7 +10,7 @@ Cara pasangnya :
 2. Pilih Wi-Fi, koneksi iPhone mu kesalahsatu Wi-Fi yang ada di areamu.
 3. Setelah terkoneksi, klik tombol info yang berlogo (i) dalam lingkaran.
 4. Scroll kebawah dan cari Konfigurasi Proxy.
-5. Pilih metode otomatis dan copy paste url PAC file nya.
+5. Pilih metode otomatis dan copy paste url [PAC file]([url](https://raw.githubusercontent.com/bgboyok/ios-adblock/main/iOS-Adblock)) nya.
 6. Selesai, dan silahkan dicoba.
 
 Note : Jangan menuntut banyak di aplikasi beta ya.
